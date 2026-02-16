@@ -105,6 +105,8 @@ The site showcases Draagon AI's key capabilities:
 
 Use cases: Voice Assistants (Roxy), Game NPCs (Mindcraft), Domain-Specific Agents (Healthcare)
 
+**Note:** Draagon AI is currently in closed development. The website reflects this — no GitHub links, no "open source" language. CTA directs to email contact for early access / partnership inquiries. Update the site when ready to go public.
+
 ## Future Plans
 
 - Add code examples / quick start section
